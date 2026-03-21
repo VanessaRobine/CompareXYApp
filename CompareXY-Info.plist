@@ -41,5 +41,7 @@
 	<string></string>
 	<key>GADApplicationIdentifier</key>
 	<string>ca-app-pub-8465098585017909~6194340112</string>
+	<key>OPENAI_API_KEY</key>
+	<string>$(OPENAI_API_KEY)</string>
 </dict>
 </plist>
